@@ -1,0 +1,7 @@
+Actualización Rev_02_00
+
+- Con las "Arandelas de guiado" se eliminan la totalidad de las arandelas metálicas.
+
+El "Soporte Y", "Carro Y" y "Cierre trasero superior incorporan amarres en clip para el Endstop.
+
+En el "Soporte Y" también se eliminan las arandelas metálicas.
